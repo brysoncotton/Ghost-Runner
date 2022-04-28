@@ -1,14 +1,15 @@
 # Ghost Runner
 
-Thank you for being willing to play test this game, check back often to download the latest update of the game.
-
-When downloading please ensure that you select the correct version of the game for your Operating System
-
-Once you have played around for 10 minutes of the Game please help us out and fill out this [survey](https://forms.gle/e9BWXg2k7PoHzykw8)
-
-If you noticed any issues please open an issue in the [issues tab](https://github.com/brysoncotton/ghost-runner/issues)
-
-If you want to request a feature please open an issue in the [issues tab](https://github.com/brysoncotton/ghost-runner/issues) and mark it with the feature request label (Found on the right side, once you are in the process of adding a issue)
-
-System Requirements 
-(Will come soon once enough surveys have been collected)
+ Thank you for being willing to play test this game for us while we prepare to go to FBLA Nationals on June 27th!
+ 
+ Once youve played the game for a decent amout of time (We ask about 30 minutes) please fill out this fourm linked here [Play Testing Survery](https://docs.google.com/forms/d/e/1FAIpQLSftqizpfbxrxnLpRwKRjgkX0Zo-uffnSftuTTqxIiQSxUPd1g/viewform?usp=pp_url)
+ 
+ If you find an bug or error, please open an issue through the [issues tab](https://github.com/brysoncotton/ghost-runner/issues) above. Please be sure to include relevent info relating to the bug such as if you can recreate it, the effect it has on the game, what version of the game you are running, what Operating System you are using, and what happened that triggered the bug. 
+ 
+ If you have a feature request please create an issue and mark it with the **FEATURE REQUEST** label (Found on the right side when you are trying to create a new issue)
+ 
+ Please make sure to download the correct Edition of the Game for your OS, Currently we support Windows, MacOS, and most Linux Distros
+ 
+ 
+ System Requirements
+ (Comming soon once enough feedback comes in)
