@@ -1,8 +1,10 @@
 # Ghost Runner
 
+## [DOWNLOAD HERE](https://drive.google.com/drive/folders/1B-CWVS4vbRrCWIevQsB_xHwgsmz5iQ8-?usp=sharing)
+
  Thank you for being willing to play test this game for us while we prepare to go to FBLA Nationals on June 27th!
  
- Once youve played the game for a decent amout of time (We ask about 30 minutes) please fill out this fourm linked here [Play Testing Survery](https://docs.google.com/forms/d/e/1FAIpQLSftqizpfbxrxnLpRwKRjgkX0Zo-uffnSftuTTqxIiQSxUPd1g/viewform?usp=pp_url)
+ Once youve played the game for a decent ammout of time (We ask about 10-20 minutes) please fill out this fourm linked [here](https://docs.google.com/forms/d/e/1FAIpQLSftqizpfbxrxnLpRwKRjgkX0Zo-uffnSftuTTqxIiQSxUPd1g/viewform?usp=pp_url)
  
  If you find an bug or error, please open an issue through the [issues tab](https://github.com/brysoncotton/ghost-runner/issues) above. Please be sure to include relevent info relating to the bug such as if you can recreate it, the effect it has on the game, what version of the game you are running, what Operating System you are using, and what happened that triggered the bug. 
  
